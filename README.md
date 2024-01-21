@@ -6,7 +6,7 @@ Students will work in the same team as their Research Plan/Protocol project.
 
 Data for the data analysis project are located in the [Data sets folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Data%20sets).
 
-Each data set has been used in peer reviewed publications. You can read the assocaited publications, which have been saved in the [Papers folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Papers). 
+Each data set has been used in peer reviewed publications. You can read the associated publications, which have been saved in the [Papers folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Papers). 
 
 Each data set has a research question that teams will need to answer. The list of questions is located in the following [folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Research%20questions%20for%20data%20sets). 
 
