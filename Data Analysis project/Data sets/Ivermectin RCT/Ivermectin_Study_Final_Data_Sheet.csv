@@ -1,0 +1,319 @@
+SL no,age,sex,onset of symptoms,comorbidities,Severity on admission,Group A/ B,RT PCR result on day 6,Symptom on day 6,Discharged on day 10 or not,final outcome,ICU,intubation  and MV
+1,35,Male,7days,NA,Mild,B,Discharged,Asymtomatic,Discharged,Discharged,no,no
+2,58,Male,6 days,"T2DM, Hepatitis C",Mild,A,Negative,symptomatic,No,Discharged,yes,yes
+3,60,Male,6 days,HTN,Mild,B,Discharged,asymptomatic,Discharged,Discharged,no,no
+4,55,Male,6days,T2DM,Mild ,A,Negative,Asymptomatic,Discharged,Discharged,no,no
+5,50,Male,14 days,"HTN, T2DM",Mild ,B,Negative,Asymptomatic,Discharged,Discharged,no,no
+6,39,Male,3days,NA,Mild,B,Discharged,Asymptomatic,Discharged,Discharged,no,no
+7,62,Female,7 days,"HTN, T2DM",Mild ,A,Negative,Asymptomatic,Discharged,Discharged,no,no
+8,48,Male,3days,T2DM,Mild,A,EXCLUDED,Asymtomatic ,Discharged,Discharged,no,no
+9,35,Female,10days,Hypothyroidism,Mild,B,EXCLUDED,asymptomatic,Discharged,Discharged,no,no
+10,30,Female,3days,NA,Mild,A,Negative,Asymptomatic,Discharged,Discharged,no,no
+11,54,Male,8days,T2DM,Moderate,B,Result N/A ,symptomatic,Discharged,Discharged,no,no
+12,20,Male,5days,NA,Mild,A,Negative ,Asymptomatic,Discharged,Discharged,no,no
+13,51,Female,4 days,HTN,Mild,B,Discharged,asymptomatic,Discharged,Discharged,no,no
+14,43,Female,7days,HTN,Mild,B,Discharged,asymptomatic,Discharged,Discharged,no,no
+15,57,Male,14days,T2DM,Mild,B,Positive,Asymptomatic,Discharged,Discharged,no,no
+16,46,male,asymptomatic,"HTN,IHD",Mild,B,Inconclusive,Asymptomatic,No,Discharged,no,no
+17,40,Male,2days,NA,Mild,A,Negative,Asymptomatic,Discharged,Discharged,no,no
+18,60,Male,3days,"HTN, T2DM",Moderate,A,Negative,Asymptomatic,No,Discharged,no,no
+19,52,Male,10days,Tuberculosis,Moderate,A,Positive,symptomatic,No,Death,yes,yes
+20,72,Male,8 days,NA,Mild,A,Positive,Asymptomatic,Discharged,Discharged,no,no
+21,32,Male,6 days,NA,Mild,A,Positive,Asymptomatic,Discharged,Discharged,no,no
+22,75,male,2 days,NA,mild,A,Positive,Asymptomatic,Discharged,Discharged,no,no
+23,70,female,asymptomatic,NA,mild,A,Positive,Asymptomatic,Discharged,Discharged,no,no
+24,28,Male,8 Days,NA,Moderate,B,Positive,Asymptomatic,No,Discharged,no,no
+25,68,Female,1day,"AF, CCF With IHD, Minimal Renal Dysfunction",Moderate,A,Inconclusive,Asymptomatic,No,Discharged,no,no
+26,61,male,asymptomatic,T2DM,mild,B,Positive,Asymptomatic,No,Discharged,no,no
+27,49,female,5days,"T2DM, Valvular HD, CCF",moderate,B,Positive,Asymptomatic,No,Discharged,no,no
+28,40,Male,7 days,Newly Diagnosed T2DM,Moderate,B,Positive,Asymptomatic,Discharged,Discharged,no,no
+29,50,Female,7 days,"T2DM, CaGB",Mild,B,Negative,Symptomatic,No,Discharged,yes,no
+30,68,Male,4 days,"HTN,IHD",Mild,A,Result N/A ,Asymptomatic,Discharged,Discharged,no,no
+31,36,Male,6days,NA,Mild,A,inconclusive,Asymptomatic,Discharged,Discharged,no,no
+32,70,Male,2days,post AVR,Mild,B,Positive,Asymptomatic,No,Discharged,yes,no
+33,71,Male,5days,"T2DM, HTN",Mild,A,Positive,Asymptomatic,No,Discharged,no,no
+34,54,Male,6days ,"Asthma, T2DM",Moderate,B,Positive,Symptomatic,No,Discharged,no,no
+35,55,Female,8 days,"T2DM, HTN",Moderate ,A,Negative,Symptomatic,No,Discharged,no,no
+36,76,Male,5days,"T2DM, HTN",Mild,A,Discharged,asymptomatic,Discharged,Discharged,no,no
+37,45,Male,2months,"T2DM, HIV positive",Mild,A,Positive,symptomatic,No,Death,yes,yes
+38,82,Male,8days,NA,Moderate,A,Result N/A ,symptomatic,No,Death,yes,yes
+39,60,Male,2days,NA,Mild,B,Discharged,Asymptomatic,Discharged,Discharged,no,no
+40,55,Female,5days,"Hypothyroidism, HTN",Mild,B,Positive,Asymptomatic,Discharged,Discharged,no,no
+41,52,Male,12days,NA,Mild,B,Negative,symptomatic,Discharged,Discharged,no,no
+42,45,Male,7days,hypothyroidism,Mild,B,Positive,symptomatic,No,Discharged,yes,no
+43,44,Female,4days,Uterine cancer,Mild,A,Positive,asymptomatic,No,Discharged,no,no
+44,76,Male,6days,HTN,Mild,A,Positive,Asymptomatic,No,Discharged,no,no
+45,68,Female,10days,"HTN, T2DM",Mild,B,Negative,Asymptomatic,Discharged,Discharged,no,no
+46,42,Female,3 days,Acute Leukemia,Mild,B,positive,Asymptomatic,No,Discharged,no,no
+47,52,Male,10 days,Not known comorbities,Moderate ,B,Positive,symptomatic,Discharged,Discharged,no,no
+48,24,Male,1 day,HTN newly diagnosed ,Mild,B,Inconclusive,asymptomatic,Discharged,Discharged,no,no
+49,65,Male,5 days,"HTN, IHD ",Moderate,A,Died,Died,Died,Death,yes,yes
+50,50,Male,2days,HTN,Mild,A,Negative,asymptomatic,Discharged,Discharged,no,no
+51,47,Female,1day,"T2DM,HTN, Hyperuricemia, Hypercholesterolemia",Mild,B,Sample not sent,asymptomatic,Discharged,Discharged,no,no
+52,65,Female,10days,cholecystitis,Mild,A,Positive,asymptomatic ,Discharged,Discharged,no,no
+53,59,Male,10days,T2DM,Mild,B,Inconclusive,asymptomatic,Discharged,Discharged,no,no
+54,57,Female,7days,"HTN,T2DM",Moderate,A,Positive,asymptomatic,Discharged,Discharged,no,no
+55,54,Male,20days,"T2DM, Severe anemia,newly diagnosed MM, CKD",Mild,A,positive,asymptomatic,No,Discharged,no,no
+56,49,Female,15 Days,"HTN, T2DM newly diagnosed",Mild,A,Sample not sent,asymptomatic,Discharged,Discharged,no,no
+57,56,Male,6- 7 months,"HTN, DM, AKI ",moderate,B,Positive,Symptomatic,Discharged,Discharged,yes,no
+58,72,Male,1day,"CAD,HTN",Moderate,B,Negative,symptomatic,Discharged,Discharged,no,no
+59,68,Male,10 days,NA,Moderate,B,positive,symptomatic,No,Discharged,yes,yes
+60,58,Female,3 days,Rheumatoid Arthritis,Mild,A,Positive,asymptomatic,Discharged,discharged,no,no
+61,68,Female,6days,"HTN, PSVT",mild,A,Positive,asymptomatic,Discharged,Discharged,no,no
+62,51,male,3days,NA,mild,B,Positive,Asymptomatic,Discharged,Discharged,no,no
+63,83,male,4days,T2DM,mild,A,Inconclusive,Asymptomatic,Discharged,Discharged,no,no
+64,46,Male,10 days,HTN,Mild,B,Discharged,Asymptomatic,Discharged,Discharged,no,no
+65,60,Male,10 days,NA,Mild,B,Positive,asymptomatic,Discharged,Discharged,no,no
+66,41,Male,3 days,NA,Mild,A,Positive,asymptomatic,Discharged,Discharged,no,no
+67,60,Female,15 days,DM,Mild,A,Inconclusive,asymptomatic,Discharged,Discharged,no,no
+68,71,Male,25 days,NA,Mild,A,positive,asymptomatic,Discharged,Discharged,no,no
+69,35,Male,7 days,NA,Mild,B,Negative,asymptomatic,Discharged,Discharged,no,no
+70,45,Female,3 days,Left Pleural effusion under evaluation,Mild,B,Positive,asymptomatic,No,Discharged,no,no
+71,53,Female,5 days,"HTN, DM",Mild,A,Negative,asymptomatic ,Discharged,Discharged,no,no
+72,75,Male,3 days,"HTN, DM, ca cervix",Moderate,B,Sample not sent,asymptomatic,Discharged,Discharged,no,no
+73,48,female,1day,hypothyroidism,mild,B,Discharged,asymptomatic,Discharged,Discharged,no,no
+74,22,Male,10 days,NA,Mild,A,Sample not sent,asymptomatic,Discharged,Discharged,no,no
+75,28,female,1day,NA,Mild,A,Discharged,asymptomatic,Discharged,Discharged,no,no
+76,70,male,4days,HTN,mild,A,negative,asymptomatic,Discharged,Discharged,no,no
+77,52,male,3days,"HTN, T2DM",mild,B,negative,asymptomatic,Discharged,Discharged,no,no
+78,N/A,N/A,N/A,N/A,N/A,B,EXCLUDED,N/A,N/A,N/A,N/A,N/A
+79,35,Male,10 days,NA,Mild,A,negative,asymptomatic,Discharged,Discharged,no,no
+80,55,Male,10 days,"HTN, IHD",Mild,A,positive,asymptomatic,No,Discharged ,no,no
+81,45,Male,10 days,NA,Mild,B,negative,asymptomatic,Discharged,Discharged,no,no
+82,24,Male,6 days,NA,Mild,A,positive,asymptomatic,Discharged,Discharged,no,no
+83,40,Male,2  days,NA,Mild,B,Discharged,asymptomatic,Discharged,Discharged,no,no
+84,71,Male,4 days,"HTN, T2DM",Mild,B,Inconclusive,asymptomatic,Discharged,Discharged,no,no
+85,60,Female,10 days,HTN ,Moderate,B,negative,asymptomatic , Discharged,Discharged,no,no
+86,45,Male,5days,NA,mild,B,Discharged,asymptomatic,Discharged,Discharged,no,no
+87,45,male,10 days,NA,Mild,B,Discharged,asymptomatic,discharged,Discharged,no,no
+88,55,MALE,4days,"IHD, AKI",mild,A,Discharged,asymptomatic,Discharged,Discharged,no,no
+89,65,MALE,2days,T2DM,Mild,A,positive,asymptomatic,Discharged,Discharged,no,no
+90,70,male,1 day,T2DM,Moderate,A,negative,Asymptomatic,Discharged,Discharged,no,no
+91,60,Female,10 days,HIV,mild,A,Result N/A,Asymptomatic,Discharged,Discharged,no,no
+92,33,male,7 days,NA,mild,B,positive,Asymptomatic,Discharged,Discharged,no,no
+93,61,female,7 days,DM,mild,B,negative,Asymptomatic,Discharged,Discharged,no,no
+94,35,male,5 days,CKD (post transplant),mild,B,Result N/A,Asymptomatic,Discharged,Discharged,no,no
+95,39,male,4days,T2DM,Moderate,A,negative,Asymptomatic,Discharged,Discharged,no,no
+96,38,male,10 days,hypothyroidism,mild,A,negative,Asymptomatic,Discharged,Discharged,no,no
+97,34,male,4 days,nil,mild,B,Result N/A,Asymptomatic,Discharged,Discharged,no,no
+98,50,female,5days,nil,mild,B,negative,Asymptomatic,Discharged,Discharged,no,no
+99,62,Male,8 days,"T2DM, HTN",Mild,B,Result N/A,Asymptomatic,discharged,Discharged,no,no
+100,27,MALE,4days,nil,Moderate,A,positive,Asymptomatic,No,Discharged,no,no
+101,40,MALE,6days,HTN,Moderate,A,negative,Asymptomatic,Discharged,Discharged,no,no
+102,61,male,8days,"Hypothyroidism, Post CA thyroid",Mild,A,positive,Asymptomatic ,Discharged,Discharged,no,no
+103,78,male,10days,"HTN, DM, IHD",mild,B,negative,Asymptomatic,Discharged,Discharged,no,no
+104,67,male,8days,"DM, IHD",Mild,A,negative,Asymptomatic ,Discharged,Discharged,no,no
+105,65,male,7days,"T2DM, HTN",mild,A,positive,Asymptomatic,No,Discharged,yes,no
+106,53,female,7days,"T2DM, HTN",mild,B,positive,Asymptomatic,Discharged,Discharged,no,no
+107,34,male,20days,"Multiple myeloma, CKD",mild,A,positive,Asymptomatic,Discharged,Discharged,no,no
+108,18,female,Asymptomatic,nil,mild,B,positive,asymptomatic,Discharged,Discharged,no,no
+109,55,male,10days,IHD,Mild,A,positive,Asymptomatic,Discharged,Discharged,no,no
+110,56,male,6days,T2DM,mild,B,Result N/A,Asymptomatic,Discharged,Discharged,no,no
+111,60,female,15days,IHD,Mild,A,negative,Asymptomatic,Discharged,Discharged,no,no
+112,30,male,10days,NA,Mild,A,positive,Asymptomatic,Discharged,Discharged,no,no
+113,40,Male,7days,Hypertension,Moderate,B,negative,Asymptomatic,Discharged,Discharged,no,no
+114,65,Male,10days,"Hypertension, T2DM",Moderate,B,Result N/A,Asymptomatic,Discharged,Discharged,no,no
+115,66,Male,4days,Hypertension,Mild ,A,positive,Asymptomatic,Discharged,Discharged,no,no
+,,,,,,,,,,,,
+,,,,,,A = Placebo,,,,,,
+,,,,,,B = Ivermectin,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

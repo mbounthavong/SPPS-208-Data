@@ -1,0 +1,119 @@
+=====================================
+README File
+=====================================
+
+===========================
+DATA & CITATION
+===========================
+Dataset for: Adverse events related to bystander naloxone administration in cases of suspected opioid overdose in British Columbia: an observational study (naloxone_amp_smp_data.csv)
+
+Citation: Moustaqim-Barrette A, Papamihali K, Williams S, Ferguson M, Moe J, Purssell R, Buxton JA. Adverse events related to bystander naloxone administration in cases of suspected opioid overdose in British Columbia: An observational study. PLoS One. 2021 Oct 29;16(10):e0259126. doi: 10.1371/journal.pone.0259126. PMID: 34714854; PMCID: PMC8555799.
+
+URL: https://zenodo.org/records/5525413
+
+The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited.
+
+
+
+====================================
+Primary Aim: 
+=====================================
+To examine whether an association exists between number of ampoules of naloxone administered and the odds that the recipient will experience withdrawal symptoms.
+
+
+===============================
+Variables in the dataset:
+===============================
+Dependent variable = Severity of Withdrawl (there are two variables)
+symp2:
+- None, mild
+- Moderate or severe
+
+num_symp2:
+- 1 (corresponds to "none, mild")
+- 2 (corresponds to "moderate or severe")
+
+
+Independent variables
+numyear:
+- 1 (corresponds to "before 2016")
+- 2 (corresponds to "2016")
+- 3 (corresponds to "2017")
+- 4 (corresponds to "2018")
+
+year:
+- Before 2016
+- 2016
+- 2017
+- 2018
+
+
+gender2: 
+- Female and Other
+- Male
+- Unknown
+
+age:
+- Under 19
+- 19-30
+- 31-60
+- Over 60
+- Unknown
+
+
+HA (Health Area/Region):
+- FHA (Fraser Health)
+- IHA (Interior Health)
+- NHA (Northern Health)
+- VCH (Vancouver Coastal Health)
+- VIHA (Vancouver Island Health)
+- Unknown
+
+
+
+HA2 (Health Area/Region):
+- FHA (Fraser Health)
+- IHA (Interior Health)
+- NHA (Northern Health)
+- VCH (Vancouver Coastal Health)
+- VIHA (Vancouver Island Health)
+- Unknown
+
+
+amps (number of amps used):
+- 1
+- 2
+- 3
+- > 3
+
+
+num_amps (number of amps used): Continuous data
+
+
+location (site of overdose):
+- Community agency/drop-in
+- Other
+- Private residence
+- Shelter/tent
+- SRO/Supportive housing
+- Street/Alley/Park
+
+
+breaths (rescua breathing performed):
+- Yes
+- No
+- Unknown
+
+
+emerg (911 called):
+- Yes
+- No
+- Unknown
+
+survive (survied the overdose){
+- Yes
+- No
+- Unknown
+
+
+

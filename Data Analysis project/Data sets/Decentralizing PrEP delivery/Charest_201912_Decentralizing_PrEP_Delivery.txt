@@ -1,0 +1,369 @@
+This Charest_201912_Decentralizing_PrEP_Delivery.txt file was generated on 2021-03-11 by MAXIME CHAREST
+
+URL: https://datadryad.org/stash/dataset/doi:10.5061%2Fdryad.tx95x69x5
+
+GENERAL INFORMATION
+
+1. Title of Dataset: Decentralizing PrEP Delivery (DPD)
+
+2. Author Information
+	A. Principal Investigator Contact Information
+		Name: Dr. Darrel H. S. Tan
+		Institution: St. Michael's Hospital
+		Address: 30 Bond St., Toronto, Ontario, Canada, M5B 1W8
+		Email: darrell.tan@gmail.com
+
+	B. Associate or Co-investigator Contact Information
+		Name: Maxime Charest
+		Institution: University of Toronto
+		Address: 329 Oakcrest Way, Ottawa, Ontario, Canada, K4A 0S2
+		Email: maxime.ja.charest@gmail.com
+
+
+3. Date of data collection: 2017-09 to 2019-12.
+
+4. Geographic location of data collection: Toronto, Ontario, Canada
+
+5. Information about funding sources that supported the collection of the data: CIHR (Grant # HIM 145368), CIHR Canadian HIV Trials Network (Grant # CTN 303), Innovation Fund of the Alternative Funding Plan for the Academic Health Sciences Centres of Ontario (Grant # 16-004). 
+
+
+SHARING/ACCESS INFORMATION
+
+1. Licenses/restrictions placed on the data: CC0 1.0
+
+2. Links to publications that cite or use the data: Charest M, Sharma M, Chris A, et al. Decentralizing PrEP delivery: Implementation and dissemination strategies to increase PrEP uptake in Toronto, Canada. PLOS ONE;in press. 
+
+
+DATA & FILE OVERVIEW
+
+1. File List: DPD_Patient_Baseline.csv, DPD_Patient_FollowUp.csv
+
+These two datasets come from an implementation and dissemination study that explored the decentralization of PrEP delivery from specialist physicians to family physicians and public health nurses. Potential patients received an information card about PrEP which led them to an online module on how to engage a provider about PrEP. After completing the module, potential participants were offered to take part in the study, which asked them to complete a baseline questionnaire and follow-up questionnaire six months later. The questionnaires included demographic questions, questions about substance use and sexual behaviours, questions about PrEP and the study, as well as questions about participants' relationship with their primary care providers. 
+
+2. Relationship between files, if important: The first file contains the data from the participants' baseline questionnaire while the second file contains the data from participants' 6-month follow-up questionnaire. 
+
+
+METHODOLOGICAL INFORMATION
+
+1. Description of methods used for collection of data: The methods for data collection can be found in the following articles: Sharma M, Chris A, Chan A, et al. Decentralizing the delivery of HIV pre-exposure prophylaxis (PrEP) through family physicians and sexual health clinic nurses: a dissemination and implementation study protocol. BMC Health Serv Res;18:513. doi:10.1186/s12913-018-3324-2; Charest M, Sharma M, Chris A, et al. Decentralizing PrEP delivery: Implementation and dissemination strategies to increase PrEP uptake in Toronto, Canada. PLOS ONE;in press. 
+
+2. Methods for processing the data: Data were collected via an online survey platform. Participants who did not consent to the study or did not complete the questionnaire were removed from the dataset. Missing data were left as is and assigned a value of -99, which was an impossible value in our dataset. Participants' answers were initially textual (e.g., very satisfied) and were assigned numeric values which are described below. 
+
+
+DATA-SPECIFIC INFORMATION FOR: DPD_Patient_Baseline.csv
+
+1. Number of variables: 69
+
+2. Number of cases/rows: 196
+
+3. Variable List: 
+
+- FollowUpID: Same ID as FollowUpID in DPD_Patient_FollowUp.csv data file, for those who completed the 6-month follow-up questionnaire. These IDs were randomly assigned but can be used to match up participants' baseline and follow-up questionnaires. 
+
+- Age_Range: Age of participants; 1 = 18-25, 2 = 26-30, 3 = 31-40, 4 = 41-50, 5 = 51+
+
+- Education: 1 = Less than a high school diploma, 2 = High school diploma, 3 = College or undergraduate degree, 4 = Graduate or professional degree
+
+- RaceEthn: 1 = White-North American, 2 = White-European, 3 = Asian-East, 4 = Asian-South, 5 = Asian-South East, 6 = Latin American, 7 = Black, 8 = Middle Eastern, 9 = Mixed, 10 = Other
+
+- UsedPEPEver: Participants could indicate whether they had ever used post-exposure prophylaxis (PEP) to prevent HIV. 0 = No, 1 = Yes. 
+
+- HIVLifetimeRisk: Self-rated risk of acquiring HIV in lifetime; 1 = a lot of risk (high risk), 2 = more than a little bit of risk (moderate risk), 3 = a little bit of risk (low risk), 4 = no risk
+
+- LifeRisk0_100: Self-rated risk of acquiring HIV in lifetime on a scale of 0 to 100%
+
+- HIVRiskConcern: Participant's level of concern regarding their HIV risk; 1 = Very concerned, 2 = More than a little bit concerned, 3 = A little bit concerned, 4 = Not concerned at all
+
+For the following 9 variables, participants were asked to rate how much they agreed with each statement. Values are 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree
+
+- NewDrugsLessConcInf: Since the discovery of new drugs to fight HIV, I’m less concerned about getting infected.
+
+- ManageableDis: Now that HIV is a manageable disease, I feel more free to have sex without condoms.
+
+- NewMedsAIDSNotScary: With all the talk of new HIV medicines, AIDS doesn’t seem so scary anymore.  
+- LessConcernNewAIDSMeds: I’m less concerned about getting AIDS now that there are new effective medicines to treat it.
+
+- NewARVsAIDSLessScary: The new antiviral drugs are making it less scary to get AIDS.
+
+- NotUpsetInfectedDrugs: I wouldn’t be so upset if I got infected with HIV because there are powerful new drugs to treat it.
+
+- TakenChancesRegret: I’ve taken chances I regretted the next morning. 
+
+- GiveMyselfGrief: I give myself grief about not protecting myself. 
+
+- ColdWorryHIV: When I get a cold/flu I start worrying that I got infected with HIV. 
+- InterestedToReduceRisk: Participants indicated to what extent they agreed with the following statement "I am interested in taking PrEP to reduce my current risk of HIV infection". Values are 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree
+
+For the following 7 variables, participants could indicate why they were not interested in PrEP. Values are 0 = No, 1 = Yes, 2 = N/A.
+
+- NotHighRisk: I am not high risk enough
+
+- SideEffects: I am concerned about side-effects
+
+- Not100: It is not 100% effective
+
+- DistrustSci: I don’t trust the science
+
+- Doc3Mo: I don’t want to visit a doctor every 3 months
+
+- WhatPeopThink: I am worried what people would think of me
+
+- Other: Other reason
+
+For the following 8 variables, participants could indicate why they were not currently taking PrEP if they were interested in taking it. Values are 0 = No, 1 = Yes, 2 = N/A.
+
+- NoDoc: I don’t have a doctor
+
+- ComfAskDoc: I haven’t felt comfortable asking my doctor about PrEP
+
+- AskedNoPres: I asked my doctor about PrEP but they wouldn’t prescribe it
+
+- NotGotAround: I have been meaning to, but I haven’t got around to it yet
+
+- NoPrivIns: I don’t have private health insurance
+
+- ThinkNotCover: I don’t think my private health insurance covers the cost
+
+- KnownotCover: I know my private health insurance does not cover the cost
+
+- DidNotKnow: I didn’t know about it before
+
+For the following 6 variables, participants could indicate the reasons why they were interested in PrEP. Values are 0 = No, 1 = Yes, 2 = N/A. 
+
+- MainLowerRisk: To lower my risk of HIV
+
+- MainLowerAnx: To lower my anxiety about getting HIV
+
+- MainPleaNoCond: To increase sexual pleasure by having condomless sex 
+
+- MainIntimNoCond: To increase intimacy by having condomless sex
+
+- MainPartnerPressure: My partner(s) are pressuring me to go on PrEP
+
+- MainNoInterest: I'm not interested in PrEP
+
+- TestingFreq: How frequently participants get tested for HIV/STIs; 1 = Every 3 months, 2 = Every 6 months, 3 = Once a year, 4 = Less than once a year, 5 = Only once before, 6 = Never had HIV/STI testing
+
+- TestingWhere: Where participants get tested for HIV/STIs; 1 = sexual health clinics, 2 = mix of different locations, 3 = family doctor, 4 = walk-in clinics
+
+- FamDoc: Whether participants have a family doctor; 0 = No, 1 = Yes, 2 = N/A
+
+- OutFamDoc: Whether participants are out to their family doctors; 0 = No, 1 = Yes, 2 = N/A
+
+For the following 5 variables, participants could indicate the reasons why they were not "out" to their family doctors. 0 = No, 1 = Yes, 2 = N/A
+
+- NOutNotComeUp: The topic has never come up
+
+- NOutNotOutPeop: I am not out to very many people at all
+
+- NOutDocNotKnowledgeable: I do not think my family doctor is knowledgeable about issues related to sexual orientation
+
+- NOutNoComfSex: I do not think my family doctor is comfortable discussing issues related to sexual orientation
+
+- NOutDocHomophobe: I think my family doctor is homophobic
+
+For the following 12 variables, participants could rate their family doctors with respect to the following items. 1 = Poor, 2 = Fair, 3 = Good, 4 = Very good, 5 = Excellent.
+
+- DocExpTestResults: Explaining the results of tests in a way that you understand?
+
+- DocBenRiskTreat: Giving you facts about the benefits and risks of treatment?
+
+- DocProbSymp: Telling you what to do if certain problems or symptoms occur?
+
+- DocCareCompUnd: Demonstrating caring, compassion and understanding?
+
+- DocWorriesConcerns: Understanding your health worries and concerns?
+
+- OverallCommunication: Sum of the previous 5 items. 
+
+- DocTalkSexLife: Talking with you about your sex life?
+
+- DocStressAffHealth: Asking you about stresses in your life that may affect your health?
+
+- DocProbAlc: Asking about problems with alcohol?
+
+- DocProbDrugs: Asking about problems with street drugs like cocaine or heroin?
+
+- HIVSpecificInfo: Sum of the previous 4 variables. 
+
+- DocHowTakeMeds: Giving you information about the right way to take your medications?
+
+- DocUndersProbsMeds: Understanding the problems you have taking your medications?
+
+- DocSolveProbMeds: Helping you solve problems you have taking your medications the right way?
+
+- AdherenceDialogue: Sum of the previous 3 variables. 
+
+- MedChoiceYourHelp: Participants were asked whether if there was a choice between treatments, would their family doctor ask them to help make the decision. 1 = Definitely not, 2 = Probably not, 3 = Uncertain, 4 = Probably yes, 5 = Definitely yes. 
+
+For the following 2 variables, participants were asked how often their family doctor does the associated things. 1 = None of the time, 2 = A little of the time, 3 = Sometimes, 4 = Most of the time, 5 = All of the time.  
+
+- TakeRespTreatFreq: ask you to take some of the responsibility of your treatment (i.e medication, quitting smoking)
+
+- GivContTreatFreq: make an effort to give you some control over your treatment
+
+- ParticipatoryDecisionMaking: Sum of previous 3 variables (MedChoiceYourHelp, TakeRespTreatFreq, GivContTreatFreq). 
+
+- PrEPIntent: Participants' intentions regarding PrEP; 1 = ask a nurse at one of the Toronto Public Health clinics in this study to start me on PrEP, 2 = ask my family doctor to start me on PrEP, 3 = I do not plan on starting PrEP, 4 = Other. 
+
+4. Missing data codes: -99, which was an impossible value in this dataset.
+
+5. Specialized formats or other abbreviations used: PrEP = Pre-exposure prophylaxis
+
+DATA-SPECIFIC INFORMATION FOR: DPD_Patient_FollowUp.csv
+
+1. Number of variables: 66
+
+2. Number of cases/rows: 45
+
+3. Variable List: 
+
+- FollowUpID: Same ID as FollowUpID in DPD_Patient_FollowUp.csv data file, for those who completed the 6-month follow-up questionnaire.
+
+- LifetimeRisk: Self-rated risk of acquiring HIV in lifetime; 1 = a lot of risk (high risk), 2 = more than a little bit of risk (moderate risk), 3 = a little bit of risk (low risk), 4 = no risk
+
+- LifetimeRisk0_100: Self-rated risk of acquiring HIV in lifetime on a scale of 0 to 100%
+
+- HIVNextYear: Self-rated risk that a participant would acquire HIV in the next year, on a scale from 0 to 100%
+
+- HIVRiskConcern: Participant's level of concern regarding their HIV risk; 4 = Very concerned, 3 = More than a little bit concerned, 2 = A little bit concerned, 1 = Not concerned at all
+
+- InterestedToReduceRisk: Participants indicated to what extent they agreed with the following statement "I am interested in taking PrEP to reduce my current risk of HIV infection". Values are 1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree
+
+For the following 6 variables, participants could indicate why they were not interested in PrEP. Values are 0 = No, 1 = Yes, 2 = N/A.
+
+- DisNoHighRisk: I am not high risk enough
+
+- DisSideEff: I am concerned about side-effects
+
+- DisNot100Eff: It is not 100% effective
+
+- DisNoTrustSci: I don’t trust the science
+
+- DisNoDoc3Mo: I don’t want to visit a doctor every 3 months
+
+- DisWhatPeopThink: I am worried what people would think of me
+
+For the following 6 variables, participants could indicate the reasons why they were interested in PrEP. Values are 0 = No, 1 = Yes, 2 = N/A. 
+
+- AgrDecHIVRisk : To decrease my risk of HIV
+
+- AgrDecAnxHIV: To lower my anxiety about getting HIV
+
+- AgrPleaNoCond: To increase sexual pleasure by having condomless sex 
+
+- AgrIntimNoCond: To increase intimacy by having condomless sex
+
+- AgrPartPressure: My partner(s) are pressuring me to go on PrEP
+
+- AgrNoInterest: I'm not interested in PrEP
+
+- PrEPWhere: Participants who were interested in PrEP were asked where they would most prefer to do their PrEP-related checkups. 1 = sexual health clinic, 2 = family doctor, 3 = hospital specialist, 4 = I'm not interested in PrEP
+
+- PrEPModuleComp: Asked whether participants had completed the module on PrEP as part of the study. 0 = No, 1 = Yes, 2 = N/A
+
+- AftModFamDoc: Asked whether they had seen their family doctor about PrEP after completing the module. 0 = No, 1 = Yes, 2 = N/A
+
+- GiveCardDoc, Asked whether they had given their family doctor the information card about PrEP after completing the module. 0 = No, 1 = Yes, 2 = N/A
+
+- FamDocDoModule: Asked if their family doctor agreed to do the education module about PrEP. 0 = No, 1 = Yes, 2 = N/A
+
+- FamDocFollowUp: Asked if their family doctor saw them for a 2nd or follow-up appointment to talk more about PrEP. 0 = No, 1 = Yes, 2 = N/A
+
+- TPHPrEP: Asked if they went to see a nurse from Toronto Public Health about PrEP. 0 = No, 1 = Yes, 2 = N/A
+
+- GetPrescription: Asked if they received a prescription for PrEP. 0 = No, 1 = Yes, 2 = N/A
+
+- ModUseful: Asked how useful the module was in helping participants' discuss PrEP with their healthcare provider. 1 = Not at all helpful, 2 = Slightly helpful, 3 = Moderately helpful, 4 = Very helpful, 5 = Extremely helpful. 
+
+- ComfDiscSexHCP: Asked about comfort with discussing sexual practices with their healthcare provider. 1 = Very uncomfortable, 2 = Uncomfortable, 3 = Neutral, 4 = Comfortable, 5 = Very comfortable. 
+
+For the following 7 variables, participants were asked which issues their healthcare provider discussed with them at their initial visit, before they completed the PrEP module. 0 = No, 1 = Yes, 2 = N/A. 
+
+- DiscBefSexBeh: Sexual behaviours (oral sex, anal sex)
+
+- DiscBefCond: Condom use
+
+- DiscBefDrugs: Recreational drug use
+
+- DiscBefAlc: Alcohol use
+
+- DiscBefAdhe: Adherence (ability to take medications regularly)
+
+- DiscBefCostInsu: Cost/drug insurance
+
+- DiscBefSTI: Other STIs (e.g., gonorrhea, chlamydia, syphilis)
+
+For the following 7 variables, participants were asked which issues their healthcare provider discussed with them at their second or follow-up visit, after they completed the PrEP module. 0 = No, 1 = Yes, 2 = N/A. 
+
+- DiscAftSexBeh: Sexual behaviours (oral sex, anal sex)
+
+- DiscAftCond: Condom use
+
+- DiscAftDrugs: Recreational drug use
+
+- DiscAftAlc: Alcohol use
+
+- DiscAftAdhe: Adherence (ability to take medications regularly)
+
+- DiscAftCostIns: Cost/drug insurance
+
+- DiscAftSTI: Other STIs (e.g., gonorrhea, chlamydia, syphilis)
+
+- HCPAbleAnsQuestionsAft: Participants were asked whether they felt as though their healthcare provider was able to answer their questions about PrEP after they went through the continuing medical education module. 0 = No, 1 = Yes, 2 = N/A
+
+- HaveFamDoc: Whether they had a family doctor. 0 = No, 1 = Yes, 2 = N/A
+
+- ProvideInfoChanRelat: Asked whether participants' experience of providing the information card and discussing PrEP with their doctor impacted the quality of their doctor-patient relationship. 1 = Worsened the relationship a great deal, 2 = Worsened the relationship somewhat, 3 = No change, 4 = Improved the relationship somewhat, 5 = Improved the relationship a great deal. 
+
+- OutFamDoc: Whether participants are now "out" to their family doctor. 0 = No, 1 = Yes, 2 = N/A
+
+The following 5 variables asked about reasons why participants were not "out" to their family doctor if they were not out to them. 0 = No, 1 = Yes, 2 = N/A
+
+- NoOTopicNotComeUp: The topic has never come up
+
+- NoONotOutPeop: I am not out to very many people at all
+
+- NoODocNotKnow: I do not think my family doctor is knowledgeable about issues related to sexual orientation
+
+- NoONotComf: I do not think my family doctor is comfortable discussing issues related to sexual orientation
+
+- NoOHomophobe: I think my family doctor is homophobic
+
+The following 12 variables asked participants to rate their family doctor in each of the following items. 1 = Poor, 2 = Fair, 3 = Good, 4 = Very good, 5 = Excellent 
+
+- DocExpResults: Explaining the results of tests in a way that you understand
+
+- DocBenRisksTx: Giving you facts about the benefits and risks of treatment
+
+- DocProbsSymp: Telling you what to do if certain problems or symptoms occur
+
+- DocCaringCompUnd: Demonstrating caring, compassion and understanding
+
+- DocHeaWorrConc: Understanding your health worries and concerns
+
+- DocSexLife: Talking with you about your sex life
+
+- DocStressHealth: Asking you about stresses in your life that may affect your health
+
+- DocProbAlc: Asking about problems with alcohol
+
+- DocProbDrugs: Asking about problems with street drugs like cocaine or heroin
+
+- DocTakeMedsRight: Giving you information about the right way to take your medications
+
+- DocProbsMeds: Understanding the problems you have taking your medications
+
+- DocSovProbMeds: Helping you solve problems you have taking your medications the right way
+
+- TxChoiceAskYouHelp: Participants were asked whether if there was a choice between treatments, would their family doctor ask them to help make the decision. 1 = Definitely not, 2 = Probably not, 3 = Uncertain, 4 = Probably yes, 5 = Definitely yes. 
+
+For the following 2 variables, participants were asked how often their family doctor does the associated things. 1 = None of the time, 2 = A little of the time, 3 = Sometimes, 4 = Most of the time, 5 = All of the time.  
+
+- OftAskRespTx: ask you to take some of the responsibility of your treatment (i.e medication, quitting smoking)
+
+- OftAskEffContTx: make an effort to give you some control over your treatment
+
+4. Missing data codes: -99, which was an impossible value in this dataset.
+
+5. Specialized formats or other abbreviations used: PrEP = Pre-exposure prophylaxis

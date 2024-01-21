@@ -1,0 +1,33 @@
+Background: The data are from a cohort study in which 609 white males were followed for 7 years, with coronary heart disease as the outcome of interest.
+
+URL: http://web1.sph.emory.edu/dkleinb/logreg3.htm#data
+
+
+Evans County data set - Data Dictionary
+    patientid: unique identifier
+    chd: 0 = no chd, 1 = chd (outcome)
+    cat: 0 = normal catecholamine levels, 1 = high catecholamine levels
+    age: continuous variable in years
+    chl: continuous variable for cholesterol
+    smk: 0 = never smoked, 1 = smoked
+    ecg: 0 = no ecg abnormality, 1 = ecg abnormality
+    dbp: diastolic blood pressure
+    sbp: systolic blood pressure
+    hpt: 0 = no high blood pressure, 1 = high blood pressure
+    CATxHPT: interaction term between cat x hpt
+    CATxCHL: interaction term between cat x chl
+
+For this dataset, the baseline parameters are:
+age
+cat
+smk
+ecg
+dbp
+sbp
+hpt
+chl
+
+The outcome variable is:
+chd
+
+
