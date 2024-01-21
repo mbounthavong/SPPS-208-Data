@@ -12,4 +12,6 @@ Each data set has a research question that teams will need to answer. The list o
 
 I uploaded a [template](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Presentation%20template) for teams to use in their final data analysis project. It contains relevant slides that should be included in the final presentation. Although this template has been provided for students to use, I encourage teams to leverage their creativity and use their own template design. 
 
+The 5-page report template is also availble in the following [folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Report%20template). 
+
 
