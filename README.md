@@ -6,6 +6,6 @@ Data for the data analysis project are located in the [Data sets folder](https:/
 
 Each data set has been used in peer reviewed publications. You can read the assocaited publications, which have been saved in the [Papers folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Papers). 
 
-I uploaded a template for teams to use in their final data analysis project. It contains relevant slides that should be included in the final presentation. Although this template has been provided for students to use, I encourage teams to leverage their creativity and use their own template design. 
+I uploaded a [template](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Presentation%20template) for teams to use in their final data analysis project. It contains relevant slides that should be included in the final presentation. Although this template has been provided for students to use, I encourage teams to leverage their creativity and use their own template design. 
 
 
