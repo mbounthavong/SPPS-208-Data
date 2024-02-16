@@ -15,3 +15,6 @@ I uploaded a [template](https://github.com/mbounthavong/UCSD-Study-Design-and-Bi
 The 5-page report template is also availble in the following [folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Report%20template). 
 
 
+# R code for the course
+The R code for the confounding and interaction Perspective piece written by Mark Bounthavong is located [here](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/R%20codes/R%20code%20for%20confounding%20and%20interaction.R)
+
