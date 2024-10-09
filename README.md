@@ -1,6 +1,11 @@
 # Background
 This page contains course materials for UCSD SSPPS Study Design and Biostatistics course series.
 
+# Research Plan project
+Students will work in teams of 5 to 6 to develop a hypothetical research plan using the tools and skills from class. 
+
+The research plan template is located in the following [link](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/raw/refs/heads/main/Research%20Plan%20project/Research%20Plan%20Report%20Template/UCSD-Biomedical-Non-Intervention-Protocol-Template-12.08.21.docx)
+
 # Data analysis project
 Students will work in the same team as their Research Plan/Protocol project. 
 
