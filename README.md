@@ -8,10 +8,9 @@ The research plan template is located in the following [link](https://github.com
 
 Every research plan begins with a research question. I gave a presentation to UW students on how to construct a "good" research plan, which is available on [YouTube](https://www.youtube.com/watch?v=LAEaeZMIxdA&t=1s). It provides guidance using the PICOTS framework and the FINER criteria to formulate a testable research question. 
 
-<img src="https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/Site%20contents/picots.png" width=75% />
+<img src = "https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/Site%20contents/picots.png" alt ="PICOTS framework" width = 75% />
 
-
-![FINER criteria](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/Site%20contents/finer.png)
+<img src = "https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/Site%20contents/finer.png" alt ="FINER criteria" width = 75% />
 
 # Data analysis project (Winter Quarter)
 Students will work in the same team as their Research Plan/Protocol project. 
