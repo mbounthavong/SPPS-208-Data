@@ -8,7 +8,8 @@ The research plan template is located in the following [link](https://github.com
 
 Every research plan begins with a research question. I gave a presentation to UW students on how to construct a "good" research plan, which is available on [YouTube](https://www.youtube.com/watch?v=LAEaeZMIxdA&t=1s). It provides guidance using the PICOTS framework and the FINER criteria to formulate a testable research question. 
 
-![PICOTS framework](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/Site%20contents/picots.png = width=50%)
+<img src="[images/example.png](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/Site%20contents/picots.png)" width=75% />
+
 
 ![FINER criteria](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/Site%20contents/finer.png)
 
