@@ -1,5 +1,5 @@
 # Background
-This page contains course materials for UCSD SSPPS Study Design and Biostatistics course series.
+This page contains course materials for UCSD SSPPS Study Design and Biostatistics course series (SPPS 206 and SPPS 208).
 
 # Research Plan project (Fall Quarter)
 Students will work in teams of 5 to 6 to develop a hypothetical research plan using the tools and skills from class. 
@@ -32,7 +32,7 @@ The R code for the confounding and interaction Perspective piece written by Mark
 
 An R tutorial on interpreting regression models [link](https://rpubs.com/mbounthavong/interpreting_regression_models)
 
-An R tutorial on Survival Analysis is located [here](https://rpubs.com/mbounthavong/survival_analysis_in_r).
+An R tutorial on Survival Analysis is located [here](https://rpubs.com/mbounthavong/survival_analysis_in_r)
 * R tutorial on immortal time bias [link](https://rpubs.com/mbounthavong/survival_immortal_time_stata)
 
 
