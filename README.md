@@ -6,6 +6,8 @@ Students will work in teams of 5 to 6 to develop a hypothetical research plan us
 
 The research plan template is located in the following [link](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/raw/refs/heads/main/Research%20Plan%20project/Research%20Plan%20Report%20Template/UCSD-Biomedical-Non-Intervention-Protocol-Template-12.08.21.docx). You can use this to help construct your research plan. It's the template that UCSD uses for IRB submission. 
 
+Every research plan begins with a research question. I gave a presentation to UW students on how to construct a "good" research plan, which is available on [YouTube](https://www.youtube.com/watch?v=LAEaeZMIxdA&t=1s). It provides some guidance using the PICOTS framework to formulate a testable research question. 
+
 
 # Data analysis project (Winter Quarter)
 Students will work in the same team as their Research Plan/Protocol project. 
