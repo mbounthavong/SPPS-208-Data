@@ -21,7 +21,7 @@ I uploaded a [template](https://github.com/mbounthavong/UCSD-Study-Design-and-Bi
 The 5-page report template is also availble in the following [folder](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/tree/main/Data%20Analysis%20project/Report%20template). 
 
 
-# R code for the course (Fall and Winter)
+# R tutorials and guides for the course (Fall and Winter)
 Tips and Tricks guide to using R and RStudio [link](https://rpubs.com/mbounthavong/rstudio_guide)
 
 I have written several R tutorial on sample size estimations and power analysis. 
