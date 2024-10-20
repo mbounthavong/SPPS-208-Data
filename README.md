@@ -30,7 +30,7 @@ R tutorials on sample size estimations and power analysis.
 * Basics of sample size estimation and power analysis [link](https://rpubs.com/mbounthavong/sample_size_power_analysis_R)
 * Sample size estimation using odds ratio in case-control studies [link](https://rpubs.com/mbounthavong/sample_size_case_control_design)
 
-Confounding and interaction [here]([https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/R%20codes/R%20code%20for%20confounding%20and%20interaction.R](https://rpubs.com/mbounthavong/confounding_interaction)
+Confounding and interaction [link](https://rpubs.com/mbounthavong/confounding_interaction)
 
 Interpreting regression models [link](https://rpubs.com/mbounthavong/interpreting_regression_models)
 
