@@ -35,7 +35,7 @@ Confounding and interaction [link](https://rpubs.com/mbounthavong/confounding_in
 Interpreting regression models [link](https://rpubs.com/mbounthavong/interpreting_regression_models)
 
 R tutorials on survival analysis:
-* Basic of survival analysis (time-to-event) is located [here](https://rpubs.com/mbounthavong/survival_analysis_in_r)
+* Basics of survival analysis (time-to-event) is located [here](https://rpubs.com/mbounthavong/survival_analysis_in_r)
 * R tutorial on immortal time bias [link](https://rpubs.com/mbounthavong/survival_immortal_time_stata)
 
 
