@@ -26,15 +26,16 @@ The 5-page report template is also availble in the following [folder](https://gi
 # R tutorials and guides for the course (Fall and Winter)
 Tips and Tricks guide to using R and RStudio [link](https://rpubs.com/mbounthavong/rstudio_guide)
 
-I have written several R tutorial on sample size estimations and power analysis. 
+R tutorials on sample size estimations and power analysis. 
 * Basics of sample size estimation and power analysis [link](https://rpubs.com/mbounthavong/sample_size_power_analysis_R)
 * Sample size estimation using odds ratio in case-control studies [link](https://rpubs.com/mbounthavong/sample_size_case_control_design)
 
-The R code for the confounding and interaction Perspective piece written by Mark Bounthavong is located [here](https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/R%20codes/R%20code%20for%20confounding%20and%20interaction.R)
+Confounding and interaction [here]([https://github.com/mbounthavong/UCSD-Study-Design-and-Biostatistics/blob/main/R%20codes/R%20code%20for%20confounding%20and%20interaction.R](https://rpubs.com/mbounthavong/confounding_interaction)
 
-An R tutorial on interpreting regression models [link](https://rpubs.com/mbounthavong/interpreting_regression_models)
+Interpreting regression models [link](https://rpubs.com/mbounthavong/interpreting_regression_models)
 
-An R tutorial on Survival Analysis is located [here](https://rpubs.com/mbounthavong/survival_analysis_in_r)
+R tutorials on survival analysis:
+* Basic of survival analysis (time-to-event) is located [here](https://rpubs.com/mbounthavong/survival_analysis_in_r)
 * R tutorial on immortal time bias [link](https://rpubs.com/mbounthavong/survival_immortal_time_stata)
 
 
