@@ -40,6 +40,8 @@ Interpreting regression models [link](https://rpubs.com/mbounthavong/interpretin
 R tutorials on survival analysis:
 * Basics of survival analysis (time-to-event) is located [here](https://rpubs.com/mbounthavong/survival_analysis_in_r)
 
+R tutorials on prepost analysis:
+* Prepost analysis using R - Part 1 [link](https://rpubs.com/mbounthavong/prepost_r_part1)
 
 
 
